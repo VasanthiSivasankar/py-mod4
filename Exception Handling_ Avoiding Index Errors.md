@@ -12,8 +12,8 @@ To write a Python program that handles an **IndexError** when trying to access a
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: vasanthi sivasankar
+Register no: 212223040234
 ```
 ```
 list1=[5, 10, 20]
