@@ -13,8 +13,8 @@ To write a Python program that counts the number of lines in a text file `story.
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: vasanthi sivasankar
+Register no: 212223040234
 ```
 
 ```
