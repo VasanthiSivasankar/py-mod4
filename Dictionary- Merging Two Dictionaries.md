@@ -11,8 +11,8 @@ To write a Python program that merges **two dictionaries** and combines their ke
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 21223220080
+Developed by: vasanthi sivasankar
+Register no: 212223040234
 ```
 
 ```
