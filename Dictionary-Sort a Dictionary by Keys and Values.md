@@ -31,8 +31,8 @@ To write a Python program that sorts a dictionary's:
 
 ## 🧪Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: vasanthi sivasankar
+Register no: 212223040234
 
 ```
 
